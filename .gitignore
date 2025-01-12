@@ -1,0 +1,8 @@
+# xxxxxx #
+###################
+.idea
+*.yaml
+task.html
+requirements.txt
+__init*
+tests.py
