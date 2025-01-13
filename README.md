@@ -30,7 +30,7 @@ To run this program locally:
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request.
 
 ## Screenshots
-<video src="./output-screen.webm"></video>
+[output-screen.webm](https://github.com/user-attachments/assets/c00d7682-315b-4acf-adc2-273582db9b57)
 
 ## Notes
 * _This project is tagged as Easy(difficulty level) in hyperskill._
